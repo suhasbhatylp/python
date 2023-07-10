@@ -1,0 +1,6 @@
+PYTHON TOPICS TO LEARN
+1) opps
+2)lamda
+3)args and keyargs
+4) inheritance and pholimorpism
+5) regex
