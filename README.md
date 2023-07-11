@@ -1,4 +1,4 @@
 # python
 
 
-This is just a test repository
+This is just a test repository for python
